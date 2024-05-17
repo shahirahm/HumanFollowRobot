@@ -40,7 +40,7 @@ Motor Driver
 Drives the motors based on commands from the Arduino.
 Controls the movement of the robot.
 
-\begin{enumerate}
+
     \item Arduino UNO R3 Board
     \item IR sensor
     \item Ultrasonic Sensor
@@ -50,5 +50,4 @@ Controls the movement of the robot.
     \item Switch
     \item Jumper Wires
     \item 18650 Battery
-    
-\end{enumerate}
+
